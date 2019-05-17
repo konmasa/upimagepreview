@@ -1,3 +1,9 @@
+/*!
+ * CDMG UpImagePreview - upload Image Preview
+ * Copyright (c) 2019-, CODEMUG. (MIT Licensed)
+ * https://github.com/konmasa/upimagepreview
+ */
+
 ;(function($) {
 
   var defaults = {
